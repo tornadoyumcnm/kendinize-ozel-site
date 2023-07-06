@@ -1,3 +1,2 @@
 # kendinize-ozel-site
-
-###SAYGILARLA VALOUE O7
+**SAYGILARLA VALOUE O7**
